@@ -4,6 +4,6 @@ def fatorial(x):
     else: 
         return x*fatorial(x-1)
     
-resultado = fatorial(7)    
-print("resultado = ",resultado)
+resultado = fatorial(10)    
+print("resultado = ",resultado," do tipo ",type(resultado))
     

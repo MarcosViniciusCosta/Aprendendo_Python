@@ -1,0 +1,6 @@
+print("Digite o primeiro valor: ")
+valor1 = int(input())
+print("Digite o segundo valor: ")
+valor2 = int(input())
+resultado = (valor1+valor2)
+print(valor1,"+",valor2," = ",resultado)

@@ -1,0 +1,6 @@
+print("Digite o valor ganho por hora: ")
+valorPorHora = float(input())
+print("Digite a quantidade de horas trabalhadas mensalmente: ")
+quantidadeHoras = int(input())
+remunercaoMensal = (valorPorHora*quantidadeHoras)
+print("Remuneração mensal =",remunercaoMensal)
